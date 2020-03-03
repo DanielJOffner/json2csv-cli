@@ -1,5 +1,5 @@
 {
-  "name": "json2csv-cli",
+  "name": "json2csvconvert-cli-tool",
   "version": "1.0.0",
   "description": "usage: jsonconvert --read=file.json --write=file.csv",
   "main": "bin/jsonconvert.js",
