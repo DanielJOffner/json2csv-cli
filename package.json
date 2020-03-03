@@ -1,0 +1,18 @@
+{
+  "name": "json2csv-cli",
+  "version": "1.0.0",
+  "description": "usage: jsonconvert --read=file.json --write=file.csv",
+  "main": "bin/jsonconvert.js",
+  "preferGlobal": true,
+  "bin": { 
+    "jsonconvert": "bin/jsonconvert.js" 
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Offner",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "yargs": "^15.1.0"
+  }
+}
