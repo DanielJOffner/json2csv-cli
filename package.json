@@ -13,6 +13,6 @@
   "author": "Daniel Offner",
   "license": "UNLICENSED",
   "dependencies": {
-    "yargs": "^15.1.0"
+    "yargs": "^15.4.1"
   }
 }
